@@ -5,9 +5,9 @@ database configuration -
 
 Please update below parameter's as per your requirement
 
-$db['default']['hostname'] = 'localhost';\n
-$db['default']['username'] = 'root';\n
-$db['default']['password'] = 'r00t';\n
+$db['default']['hostname'] = 'localhost';
+$db['default']['username'] = 'root';
+$db['default']['password'] = 'r00t';
 $db['default']['database'] = 'db_tekdi';
 
 Please replace with your url in config.php
